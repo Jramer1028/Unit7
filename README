@@ -1,0 +1,26 @@
+FILE COMPRESSION
+  ia. The purpose of file compression is to use up less storage space, and compressed files can be transfered to other computers. 
+  
+  ib. I compressed my "IT1025WebSite" folder and it compressed from 480 kb to 316 kb. I did the same for a jpg file that was originaly 28 kb, and after being compressed, it was 16 kb. The change for both was a good amount, but the jpg file was compressed more. That means that a jpg file can be compressed more than a svg file. 
+
+OBJECT ORIENTED PROGRAMMING (OOP)
+  ia. The method for the shark class is the "def swim(self):", and "def be_awesome(self):". The properties of the "shark class" are the code that prints the two statements "The shark is being awesome." and "The shark is swimming.".
+  
+  ib. The constructor method is used to initialize data. This would allow you to print something without it affecting your previous codes. 
+  
+  ic. Classes are blueprints that programs follow to create an object. What it means to instinate an object from a class is to have that object represent what class it is in. 
+  
+UNIFIED MODELING LANGUAGE (UML)-
+  ia. The definition of OMG is "object Managment Group". it is an international, open membership, non-profit technology standards consortium. OMG standards are run by governments, vendors, acidemic users, and more. 
+      The purpose of UML was to make a basic uniformed language that the architecture, design, and implementation of complex software systems both structurally and behaviorally. 
+      
+  ib. 
+  object        = shark       I matched the object and shark together because the object of the code is the shark
+  class         = swim(self)    I matched the class witht the swim(self), because that is the class of the code ( I can't really explain, but earlier in the lesson we covered what the class was)
+  abstraction   = definition of a shark   I matched abstraction with a definition of a shark , because abstraction means to hide everything but the relative data, and the non relevant data is the definition of a shark. 
+  encapsulation = a specific type of shark  I matched encapsulation with a specific type of shark because it is the result of hiding extra code inside a single unit, and producing a single kind of shark
+  inheritance   = Sammy   Through process of elimination, inheritance has to be matched up to sammy
+  
+  
+  
+  
